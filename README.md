@@ -1,4 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffb6c1&height=300&section=header&text=Minji%20Sung&fontSize=90)
+
+<h2 align="center"> 👐 Hi there 👐 </h2>
+<h4 align="center"> This is Minji Sung, a growing Frontend Developer. ⌨️ </h4>
+
+<h3 align="center"> ⚙️ Tech Stack ⚙️ </h3>
 
 <!--
 **sungminji/sungminji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
